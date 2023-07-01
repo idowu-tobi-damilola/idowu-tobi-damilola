@@ -7,7 +7,7 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=logs94&label=Profile%20views&color=0e75b6&style=flat" alt="logs94" /> </p> -->
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="" alt="twitter" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Starks and Tools:</h3>
