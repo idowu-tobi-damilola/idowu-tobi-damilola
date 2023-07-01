@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Connect with me::</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="" alt="Linkedin" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="" alt="css3" width="40" height="40"/> </p>
+<p align="left"> <a href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" target="_blank" rel="noreferrer"> <img src="" alt="Linkedin" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="" alt="Twitter" width="40" height="40"/> </p>
 
 
 </p>
