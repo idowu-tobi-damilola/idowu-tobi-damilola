@@ -1,6 +1,6 @@
 
 <h1 align="center">WEBfLOW | UX DESiGNER | MOBiLE APP DESiGN | WORDPRESS.</h1>
-<h3 align="center">https://github.com/idowu-tobi-damilola</h3>
+<h3 align="center"></h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=logs94&label=Profile%20views&color=0e75b6&style=flat" alt="logs94" /> </p> -->
