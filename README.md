@@ -9,7 +9,7 @@
 
 
 <h3 align="left">Connect with me::</h3>
-<p align="left"><a href="https://www.linkedin.com/in/idowu-oluwatobi-damilola-a67199264" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Twitter" width="40" height="40"/> </a> <a href="https://twitter.com/iT_uxConcept" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/183608/twitter.svg" alt="Twitter" width="40" height="40"/> </a> </p>
+<p align="left"><a href="https://www.linkedin.com/in/idowu-oluwatobi-damilola-a67199264" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/2048px-LinkedIn_icon.svg.png" alt="Twitter" width="40" height="40"/> </a> <a href="https://twitter.com/iT_uxConcept" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Twitter_icon.svg/1200px-Twitter_icon.svg.png" alt="Twitter" width="40" height="40"/> </a> </p>
 
 
 </p>
