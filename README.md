@@ -7,7 +7,10 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=logs94&label=Profile%20views&color=0e75b6&style=flat" alt="logs94" /> </p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="" target="blank"><img align="center" src="" alt="Linkdin" height="30" width="40" /></a>
+<a href="" target="blank"><img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAADVJREFUSEvt0rEJAAAMAkHdf2lH+MruU0uEw+Z8Pf+PBSgskUQogAFXJBEKYMAVSYQCGLivaHrEABkDr5mAAAAAAElFTkSuQmCC" alt="Linkdin" height="30" width="40" />
+    <img src="/>
+
+</a>
 <a href="" target="blank"><img align="center" src="" alt="twitter" height="30" width="40" /></a>
 </p>
 
