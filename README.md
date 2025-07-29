@@ -1,5 +1,5 @@
 
-<h1 align="center">WEBfLOW | UX DESiGNER | MOBiLE APP DESiGN | WORDPRESS.</h1>
+<h1 align="center">FullStack Developer| UX DESiGNER | MOBiLE APP DESiGN | Python.</h1>
 <h3 align="center"></h3>
 <img align="right" alt="code" width="400" src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif">
 
