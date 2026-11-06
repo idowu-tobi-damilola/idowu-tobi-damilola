@@ -1,5 +1,5 @@
 # Idowu Oluwatobi Damilola
-### 🏠 Real Estate Lead Gen Specialist | Automation Engineer
+### 🏠 Real Estate Lead Generation Expert | LinkedIn Automation & AI Scraping
 
 > **I build automated systems that deliver qualified buyer leads to Real Estate Agents directly into their CRM.**
 
