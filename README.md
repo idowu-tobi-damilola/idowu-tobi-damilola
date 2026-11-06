@@ -54,8 +54,9 @@ I don't just write code; I build **reliable pipelines**.
 
 ---
 
-<div align="center">
-  <img src="https://i.pinimg.com/originals/28/66/72/286672f88062e0bf3edc28ec9120b25d.gif" alt="Code Animation" width="150" />
+<div align="right">
+  <!-- High-quality data flow animation -->
+  <img src="https://media.giphy.com/media/26tn33aiIWt4fCwJa/giphy.gif" alt="Automation Data Flow" width="200" />
 </div>
 
 ---
