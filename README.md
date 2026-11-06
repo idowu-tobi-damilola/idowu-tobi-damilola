@@ -53,10 +53,9 @@ I don't just write code; I build **reliable pipelines**.
 *   **Result:** Reduced manual monitoring time by 90%.
 
 ---
-
 <div align="right">
-  <!-- High-quality Python Automation Visual -->
-  <img src="https://miro.medium.com/v2/resize:fit:1400/1*J5Xm3V7qY8z6Z9wX0yKlMg.png" alt="Python Automation" width="250" />
+  <!-- Professional Abstract Tech Background -->
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Tech Background" width="250" />
 </div>
 ---
 
