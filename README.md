@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 | Service | Description | Tech Used |
 | :--- | :--- | :--- |
@@ -26,7 +26,7 @@
 
 ---
 
-## 🛠️ Technical Arsenal
+##  Technical Arsenal
 
 I don't just write code; I build **reliable pipelines**.
 
@@ -37,7 +37,7 @@ I don't just write code; I build **reliable pipelines**.
 
 ---
 
-## 💼 Featured Projects
+##  Featured Projects
 
 *(Replace these with your actual projects. If you have none, create one sample project)*
 
