@@ -55,10 +55,9 @@ I don't just write code; I build **reliable pipelines**.
 ---
 
 <div align="right">
-  <!-- High-quality data flow animation -->
-  <img src="https://media.giphy.com/media/26tn33aiIWt4fCwJa/giphy.gif" alt="Automation Data Flow" width="200" />
+  <!-- High-quality Python Automation Visual -->
+  <img src="https://miro.medium.com/v2/resize:fit:1400/1*J5Xm3V7qY8z6Z9wX0yKlMg.png" alt="Python Automation" width="250" />
 </div>
-
 ---
 
 <small><i>Contact me for a free sample of 10 leads tailored to your niche.</i></small>
