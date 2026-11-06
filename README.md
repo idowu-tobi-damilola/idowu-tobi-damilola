@@ -1,7 +1,14 @@
-# Idowu Oluwatobi Damilola
-### 🏠 Real Estate Lead Gen Specialist | Automation Engineer
+<!-- FULL WIDTH HERO BANNER -->
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1200&q=80" alt="Coding Background" width="100%" />
+</div>
 
-> **I build automated systems that deliver qualified buyer leads to Real Estate Agents directly into their CRM.**
+<h1 align="center">Idowu Oluwatobi Damilola</h1>
+<h3 align="center">🏠 Real Estate Lead Gen Specialist | Automation Engineer</h3>
+
+<p align="center">
+  I build automated systems that deliver qualified buyer leads to Real Estate Agents directly into their CRM.
+</p>
 
 ---
 
@@ -39,8 +46,6 @@ I don't just write code; I build **reliable pipelines**.
 
 ## 💼 Featured Projects
 
-*(Replace these with your actual projects. If you have none, create one sample project)*
-
 ### 1. Miami Luxury Home Buyer Scraper
 *   **Goal:** Find high-net-worth individuals looking to buy in Miami.
 *   **Tech:** Python + Selenium + LinkedIn API.
@@ -52,11 +57,6 @@ I don't just write code; I build **reliable pipelines**.
 *   **Tech:** Node.js + Webhooks + Twilio SMS.
 *   **Result:** Reduced manual monitoring time by 90%.
 
----
-<div align="right">
-  <!-- Professional Abstract Tech Background -->
-  <img src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80" alt="Tech Background" width="250" />
-</div>
 ---
 
 <small><i>Contact me for a free sample of 10 leads tailored to your niche.</i></small>
