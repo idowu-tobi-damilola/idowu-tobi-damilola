@@ -44,7 +44,7 @@ Custom Python B2B Lead Gen Engine | Real-Time Scraping & Excel/CRM Export
 
 ### 1. Infinite Pattern B2B Lead Engine | Scraping  
 *   **Goal:** Find unlimited, verified decision-makers in high-value niches (e.g., Real Estate, SaaS, B2B) without duplicate results.
-*   **Tech:*Custom Python (deep_search.py & infinite_deep_search.py),Airtable,Google spreadsheet Api*.
+*   **Tech:*Custom Python (deep_search.py & infinite_deep_search.py),Airtable,Google spreadsheet Api/CRM*.
 *   **Result:*Delivered 1000+ clean leads with verified valid emails, pushed directly to an Excel/CRM on real-time Airtable, Google spreadsheet* .
 *   [View Sample Data](#) *(Link to a CSV/GitHub Gist)*
 
