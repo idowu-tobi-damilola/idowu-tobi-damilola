@@ -39,12 +39,12 @@ I don't just write code; I build **reliable pipelines**.
 
 ##  Featured Projects
 
-*(Replace these with your actual projects. If you have none, create one sample project)*
+Custom Python B2B Lead Gen Engine | Real-Time Scraping & Excel/CRM Export
 
-### 1. Miami Luxury Home Buyer Scraper
-*   **Goal:** Find high-net-worth individuals looking to buy in Miami.
-*   **Tech:** Python + Selenium + LinkedIn API.
-*   **Result:** Delivered 500+ verified leads with email/phone data.
+### 1. Infinite Pattern B2B Lead Engine | 
+*   **Goal:** Find unlimited, verified decision-makers in high-value niches (e.g., Real Estate, SaaS, B2B) without duplicate results.
+*   **Tech:**.
+*   **Result:** .
 *   [View Sample Data](#) *(Link to a CSV/GitHub Gist)*
 
 ### 2. Automated Property Alert System
