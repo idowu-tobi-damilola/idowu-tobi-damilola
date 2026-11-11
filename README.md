@@ -48,9 +48,9 @@ Custom Python B2B Lead Gen Engine | Real-Time Scraping & Excel/CRM Export
 *   **Result:*Delivered 1000+ clean leads with verified valid emails, pushed directly to an Excel/CRM on real-time Airtable, Google spreadsheet/CRM * .
 *   [View Sample Data](#) *(Link to a CSV/GitHub Gist)*
 
-### 2. Automated Property Alert System
-*   **Goal:** Notify agents when new listings match client criteria.
-*   **Tech:** Node.js + Webhooks + Twilio SMS.
+### 2. LinkedIn Lead Generation | Verified Email Contacts + Real-Time Tracking
+*   **Goal:**To replace dead, outdated B2B contact lists with a 100% verified, high-converting LinkedIn lead pipeline, delivered directly to the client's CRM or Excel, while allowing them to track the data extraction process in real-time..
+*   **Tech:**python + Webhooks + Twilio SMS + phantombuster +apollo.io .
 *   **Result:** Reduced manual monitoring time by 90%.
 
 ---
