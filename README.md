@@ -31,7 +31,7 @@
 I don't just write code; I build **reliable pipelines**.
 
 *   **Core:** `Python` `JavaScript` `Node.js`
-    **Tools:** `Brightdata` `phantombuster` `apollo.io`
+*   **Tools:** `Brightdata` `phantombuster` `apollo.io`
 *   **Automation:** `Selenium` `Playwright` `BeautifulSoup` `Pandas`
 *   **Cloud/DevOps:** `AWS` `Google Cloud` `Docker` `Git`
 *   **Data/Viz:** `PostgreSQL` `MongoDB` `Figma` (for UI prototyping)
